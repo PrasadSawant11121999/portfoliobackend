@@ -11,6 +11,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "https://portfolio-r8o9.onrender.com/",
+    "https://portfolio-r8o9.onrender.com",
     # Add your frontend URL if it's deployed elsewhere
 ]
 
